@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700&display=swap');
+.mainUser {
+    font-family: 'Lora', sans-serif;
+    border: 2px solid rgb(251, 252, 253);
+    border-radius: 30px;
+    width: 30vw;
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: azure;
+}
+
+.userField {
+    position: relative;
+    text-align: center;
+    font-size: 110%;
+    font-weight: bold;
+    color: black;
+    display: block;
+}
